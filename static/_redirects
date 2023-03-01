@@ -425,3 +425,6 @@
 
 /docs/concepts/overview/what-is-kubernetes/      /docs/concepts/overview/ 301
 /docs/tasks/administer-cluster/verify-signed-images/     /docs/tasks/administer-cluster/verify-signed-artifacts/   301
+
+/docs/user-guide/kubectl-overview/     /docs/reference/kubectl/ 301
+/docs/admin/admission-controllers/    /docs/reference/access-authn-authz/admission-controllers/ 301
