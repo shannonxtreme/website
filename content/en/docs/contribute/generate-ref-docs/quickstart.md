@@ -46,7 +46,10 @@ directory.
 
 The script builds the following references:
 
-* Component and tool reference pages
+* Component and tool reference pages, except for the
+  [`kubelet` reference](/docs/reference/command-line-tools-reference/kubelet/).
+  To update the `kubelet` reference, edit the page and
+  [open a pull request](/docs/contribute/new-content/open-a-pr/).
 * The `kubectl` command reference
 * The Kubernetes API reference
 
@@ -190,7 +193,6 @@ depending upon changes made to the upstream source code.
 ### Generated component tool files
 
 ```
-content/en/docs/reference/command-line-tools-reference/cloud-controller-manager.md
 content/en/docs/reference/command-line-tools-reference/kube-apiserver.md
 content/en/docs/reference/command-line-tools-reference/kube-controller-manager.md
 content/en/docs/reference/command-line-tools-reference/kube-proxy.md
